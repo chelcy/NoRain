@@ -1,0 +1,8 @@
+name: NoRain
+main: net.mchel.plugin.norain.NoRain
+version: 0.0.1
+author: Chelcy Network
+description: Cancel weather changing
+website: http://www.mchel.net/
+database: false
+prefix: NoRain
